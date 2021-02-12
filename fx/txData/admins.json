@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cyntaax",
+    "master": true,
+    "password_hash": "$2a$11$ABxHCmOqdBFto7fucxEZmOcsLFTDIwhf.1.hGLMFVWCxHKOfneXh.",
+    "providers": {
+      "citizenfx": {
+        "id": "Cyntaax",
+        "identifier": "fivem:688509",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/688509",
+          "name": "Cyntaax",
+          "profile": "https://forum.cfx.re/u/Cyntaax",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/cyntaax/256/444934_2.png",
+          "sub": "dd8edd838e52dad6b82159e7d29bdf414033dffd7ac2970f2067270b6fedf7cd"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

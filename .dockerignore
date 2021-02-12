@@ -1,0 +1,6 @@
+resources/
+!resources/[scripts]/package.json
+!resources/[scripts]/package-lock.json
+.git/
+cache/
+*/node_modules
